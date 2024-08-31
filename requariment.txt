@@ -1,2 +1,2 @@
-import streamlit as st
-from meta_ai_api import MetaAI
+streamlit 
+meta_ai_api 
